@@ -1,0 +1,160 @@
+Date: 27/11/2022
+Time: 23:0
+Phone Number: +5547991123990
+Message: TESTE
+--------------------
+Date: 27/11/2022
+Time: 23:1
+Phone Number: +5547991123990
+Message: TESTE
+--------------------
+Date: 27/11/2022
+Time: 23:4
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:5
+Phone Number: +554791605369
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:6
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:7
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:9
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:10
+Phone Number: +5547991605369
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:13
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:14
+Phone Number: +5547991605369
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:17
+Phone Number: +5547991123990
+Message: TESTE WHATS AUTOMATICO
+--------------------
+Date: 27/11/2022
+Time: 23:25
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:26
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:27
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:29
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:34
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:36
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:39
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:42
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:44
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:45
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 27/11/2022
+Time: 23:58
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 28/11/2022
+Time: 0:7
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 28/11/2022
+Time: 0:9
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 28/11/2022
+Time: 0:14
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 28/11/2022
+Time: 0:19
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: teste automatico
+--------------------
+Date: 28/11/2022
+Time: 0:29
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: f{contador_sem_pesca_whats}tentativas sem conseguir pescar, favor verificar o macro
+--------------------
+Date: 28/11/2022
+Time: 0:31
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: 1tentativas sem conseguir pescar, favor verificar o macro
+--------------------
+Date: 28/11/2022
+Time: 0:32
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: 2tentativas sem conseguir pescar, favor verificar o macro
+--------------------
+Date: 28/11/2022
+Time: 0:36
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: 1 tentativa sem conseguir pescar, favor verificar o macro
+--------------------
+Date: 28/11/2022
+Time: 0:47
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: 1 tentativa sem conseguir pescar, favor verificar o macro
+--------------------
+Date: 28/11/2022
+Time: 0:48
+Group ID: DZrbv4Bw4Vt0paTKvxzcTx
+Message: 2 tentativa sem conseguir pescar, favor verificar o macro
+--------------------
